@@ -10,6 +10,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     background-color: royalblue;
+    overflow-x:hidden;
 }
 nav{
     background-color: blue;
@@ -46,7 +47,7 @@ nav h1{
 }
 .menu-btn{
     display: none;
-    padding-top: 10px;
+    padding-top: 30px;
     cursor: pointer;
 }
 .menu-btn div{
